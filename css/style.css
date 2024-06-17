@@ -1,0 +1,41 @@
+
+
+p{
+    text-align: justify;
+    color: white;
+    line-height: 0.5px;
+    font-size: large;
+    padding: 10px;
+    border-radius: 20px;
+}
+.header{
+    color: beige;   
+    text-align: center;
+    padding: 2px;
+}
+
+body{
+    background-color:black;  
+    background-size: cover;
+    background-position: center;
+}
+
+.profileIMG{
+    margin: 20px;
+    border-radius: 10px;
+    float: left;
+}
+
+.card{
+    background-color: #293542;
+    border-radius: 20px;
+    margin: 20px;
+    box-shadow: 10px 10px 5px rgb(73, 127, 146);
+}
+.card:hover{
+    background-color: #322828;
+}
+
+a{
+    color: white;
+}
